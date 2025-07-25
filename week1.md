@@ -282,11 +282,11 @@ AI기능을 통해 사용자의 피드백을 바탕으로 콘텐츠를 개인에
 
 ### 💭 퀘스트 2: 오늘의 기분 어때요? - J212 이주호
 
-<img width="558" height="896" alt="Image" src="https://github.com/user-attachments/assets/7640e3c2-0512-4602-b47b-f005c83004e8" />
+<img width="300" height="896" alt="Image" src="https://github.com/user-attachments/assets/7640e3c2-0512-4602-b47b-f005c83004e8" />
 
 ### 🌙 퀘스트 3: 금요일 힐링 퀘스트 - K018 심재훈
 
-<img width="828" height="1030" alt="Image" src="https://github.com/user-attachments/assets/fc7cd23f-89dd-4d75-816d-9170eaf8cbf3" />
+<img width="400" height="1030" alt="Image" src="https://github.com/user-attachments/assets/fc7cd23f-89dd-4d75-816d-9170eaf8cbf3" />
 
 ### 🔄 퀘스트 4: 스트레스 해소 루틴 퀘스트 - J051 김아진
 
