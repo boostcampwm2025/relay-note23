@@ -108,7 +108,7 @@ AI가 **자외선 지수나 온도를 고려해서 산책하기 가장 좋은 �
 ​오랜만에 바깥 바람을 쐬고 다른 풍경을 보니, 며칠간 머리를 무겁게 누르던 답답함이 사라지고 정신이 맑아지는 것을 느낄 수 있었습니다. 잘 쉬고 돌아오니, 오히려 더 큰 에너지가 채워진 기분입니다.
 ​내일 챌린지 과정은 끝나지만 나중에 저처럼 환기가 필요한 분이 있다면, 이 퀘스트를 꼭 해보시길 추천합니다!!
 
-<img width="2047" height="1153" alt="image" src="https://gist.github.com/user-attachments/assets/25aa13ec-98ee-4ea4-a429-b265462565d7" />
+<img width="2047" height="1153" alt="Image" src="https://github.com/user-attachments/assets/a759b399-df12-401b-971d-5585318a73ae" />
 
 ## 권동현 (K003)
 
