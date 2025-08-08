@@ -86,6 +86,110 @@ AI가 **자외선 지수나 온도를 고려해서 산책하기 가장 좋은 �
 - **선택 이유** : 실제로 부스트캠프 과제를 하면서 장시간 앉아있다보니, 허리나 목 같은 부분이 아파서 힘들었다. 이걸 보완하기 위해 스스로 운동을 해보려했는데, 당장에 급한 미션이 있다보니 계속 뒤로 미루게 되었고, 결국하지 않게 되었다. <br />
   AI 한테 추천을 받아 릴레이 프로젝트 미션으로 수행하면, 동기부여가 되서 실제로 긍정적인 효과를 볼 수 있을 것 같아 선택했다.
 
+### 수행 결과
+아래 프롬프트를 Chat GPT 5 모델에 요청하였습니다.
+```
+1.AI 에게 허리 운동을 추천받아서 하루 5분씩 운동하기
+배경
+기존의 미션을 완화하고 개발자의 안좋은 허리 근육을 보충하기 위한 미션으로 설정
+수행 방법
+AI 에게 허리 운동 5개를 추천받는다.
+그 중 마음에 드는 운동 1개를 매일 5분씩 수행한다
+그 후 릴레이 프로젝트 후기에 작성하기
+
+--
+해당 미션을 수행하기 위한 적절한 스트레칭, 운동을 추천해줘.
+따라하기 쉽도록 설명을 좀 더 구체적으로 해주고, 시각화 자료가 있다면 알려줘
+```
+
+그 결과 아래와 같은 답변을 받을 수 있었습니다.
+<details>
+<summary>운동 루틴 보기</summary>
+
+[![Stretches for Lower Back Pain | Advanced Spine and Pain](https://tse4.mm.bing.net/th/id/OIP.yaoJwmhL_V7CiJKMw6B6HQHaL9?pid=Api)](https://www.asappaindocs.com/articles/stretches-lower-back-pain)
+
+위 이미지는 “Effective Stretches for Lower Back Pain” 인포그래픽입니다. 하루 5분 수행 가능한 **허리 스트레칭 6가지** 동작을 시각적으로 쉽게 확인할 수 있어 따라하기 좋습니다. 이미지는 위에 첨부했으니 참고해 주세요.
+
+---
+
+## 추천 허리 운동 5가지 (하루 5분 루틴으로 활용)
+
+**1. 무릎 당기기 (Knee-to-Chest Stretch)**
+
+* **방법**: 등을 대고 누운 후 한쪽 무릎을 가슴 쪽으로 부드럽게 당기고 10초 유지. 반대쪽도 반복, 양쪽 모두 당긴 후엔 두 무릎을 함께 당기기.
+* **횟수**: 각 방향 3\~5회씩 수행([Advanced Spine and Pain][1]).
+
+**2. 캣 스트레치 (Cat Stretch / Cat-Cow)**
+
+* **방법**: 네 발로 기는 자세에서 숨을 내쉬며 등을 둥글게 말고, 들이마시며 등을 아래로 내리고 머리 들어 올리기.
+* **횟수**: 3\~5회 반복([British Heart Foundation][2], [nuffieldhealth.com][3]).
+
+**3. 브리지 (Bridge)**
+
+* **방법**: 등을 대고 누운 상태에서 무릎을 구부리고, 엉덩이를 천천히 들어 허리와 무릎이 일직선이 되도록 유지. 몇 초 유지 후 천천히 내림.
+* **횟수**: 5회부터 시작해 점차 늘리기([nuffieldhealth.com][3]).
+
+**4. 골반 기울이기 (Pelvic Tilt)**
+
+* **방법**: 등을 대고 누운 상태에서 배를 등 쪽으로 당기며 허리가 바닥에 밀착되도록 만들어 10초 유지 후 이완.
+* **횟수**: 여러 차례 반복([Spine-health][4], [Mayo Clinic][5]).
+
+**5. 어린이 자세 (Child’s Pose)**
+
+* **방법**: 무릎 꿇고 앉아 엉덩이를 발 뒤꿈치에 내려놓고 상체를 앞으로 숙여 이마를 바닥에 대고, 팔을 앞이나 옆으로 쭉 뻗기.
+* **유지 시간**: 30초\~1분간 자세 유지([healthline.com][6]).
+
+---
+
+## 5분 루틴 예시 (1가지씩 그날그날 골라서)
+
+1. **무릎 당기기** – 각 30초
+2. **캣 스트레치** – 1분 (3\~5회)
+3. **브리지** – 1분 (짧은 휴식 포함)
+4. **골반 기울이기** – 1분 (휴식 포함)
+5. **어린이 자세** – 1.5분 (호흡에 집중하며 천천히)
+
+이렇게 구성하면 총 약 5분 소요, 매일 한 동작을 선택해 꾸준히 반복해도 좋습니다.
+
+---
+
+## 추가 도움: 영상으로 따라하기
+
+다음 유튜브 영상들은 실시간으로 따라하기 좋은 5분 루틴을 제공합니다:
+
+[5‑Minute Exercise Routine for Low Back Pain \[Real‑Time\]](https://www.spine-health.com/video/5-minute-exercise-routine-low-back-pain-real-time-video?utm_source=chatgpt.com)
+
+(물리치료사가 안내하는 실시간 저강도 허리 운동 루틴)([Spine-health][4])
+
+또는:
+
+[5 Minute Yoga for Back Tension (6 Movements of the Spine)](https://www.youtube.com/watch?pp=ygUII3lvZ2E1dHA%3D&v=p39GdEUxxAk&utm_source=chatgpt.com)
+
+(하루 아침이나 저녁 루틴으로 적합한 5분 요가 스트레칭)([유튜브][7])
+
+---
+
+## 마무리
+
+* **매일 한 종류씩 5분 수행**하며 루틴화하기
+* **통증이나 불편이 느껴지면 즉시 중단**하고 전문가 상담 권장
+* **호흡에 집중하며 천천히 수행**하면 효과가 배가 됩니다
+
+릴레이 프로젝트 후기에도 어떤 동작이 가장 좋았는지, 느낌과 변화 등을 자유롭게 기록해보세요. 응원합니다!
+
+[1]: https://www.asappaindocs.com/articles/stretches-lower-back-pain?utm_source=chatgpt.com "Stretches for Lower Back Pain | Advanced Spine and Pain"
+[2]: https://www.bhf.org.uk/informationsupport/heart-matters-magazine/activity/exercises-for-lower-back-pain?utm_source=chatgpt.com "Lower back pain exercises – 15 minute workout"
+[3]: https://www.nuffieldhealth.com/article/take-5-minutes-to-do-your-5-a-day-back-exercises?utm_source=chatgpt.com "Take 5 minutes to do your 5-a-day back exercises"
+[4]: https://www.spine-health.com/video/5-minute-exercise-routine-low-back-pain-real-time-video?utm_source=chatgpt.com "5-Minute Exercise Routine for Low Back Pain [Real-Time] Video"
+[5]: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/back-pain/art-20546859?utm_source=chatgpt.com "Back exercises in 15 minutes a day"
+[6]: https://www.healthline.com/health/lower-back-stretches?utm_source=chatgpt.com "7 Lower Back Stretches to Reduce Pain and Improve Mobility"
+[7]: https://www.youtube.com/watch?pp=ygUII3lvZ2E1dHA%3D&v=p39GdEUxxAk&utm_source=chatgpt.com "5 Minute Yoga for Back Tension (6 Movements of the Spine)"
+
+</details>
+
+생각보다 이미지나 설명이 자세해서 따라하기 쉬웠고, 유튜브 영상까지 참고자료로 줘서 다양한 스트레칭 시도를 해볼 수 있었던 것 같습니다.
+그리고 계속 자리에 앉아 공부를 하다보니 몸이 많이 굳어있었던 것 같았는데, 조금씩 스트레칭을 하는 것이 통증 완화에 좋았던 것 같습니다 :)
+
 ## 김건우 J025
 
 - **선택 퀘스트** : 2. AI한테 오늘의 날씨를 확인 하고 적당한 시간에 산책을 한 다음 사진을 찍어 Slack 에 공유하기
